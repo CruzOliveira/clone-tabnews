@@ -11,6 +11,7 @@ function Home() {
       style={{ width: '300px', height: '200px' }}
       />
       <h1>Para a galera que esta comentando ae...</h1>
+      <h1>Haaa..! orea seca esse site vai cair</h1>
     </div>
     );
 }
