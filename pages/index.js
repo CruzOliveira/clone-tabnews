@@ -51,11 +51,12 @@ export default function Home() {
 
         {/* Botão do Matheus */}
         <button
-           onClick={() =>
-           window.open(
-          "https://www.instagram.com/reel/DDGkEjrOOtL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-          "_blank"
-    )}
+          onClick={() =>
+            window.open(
+              "https://www.instagram.com/reel/DDGkEjrOOtL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+              "_blank"
+            )
+          }
           style={{
             padding: "10px 20px",
             background: "blue",
