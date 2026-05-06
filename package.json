@@ -7,7 +7,7 @@
     "dev": "next dev",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
-    "test" : "jest",
+    "test": "jest",
     "test:watch": "jest --watch"
   },
   "author": "",
